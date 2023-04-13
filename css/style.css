@@ -1,0 +1,13 @@
+body {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    background: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75)),
+    url(../img/HD-wallpaper-rock-paper-scissors-showdowm-rock-scissors-rock-paper-scissors-paper-blue-jan-ken-pon.jpg);
+   border-radius: 2%;
+   background-size: 100%;
+  }
